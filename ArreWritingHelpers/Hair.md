@@ -24,7 +24,9 @@
 - **Bedhead** [Casual/90s] shaggy cut worn jelled or moussed in tossed fashion
   ![[bedhead1.png]] ![[bedhead2.png]] ![[bedhead3.png]] ![[bedhead4.png]]
 - **Blowout** [Smooth/Voluminous] - smooth, voluminous hair achieved with a hair dryer and round brush
+  ![[blowout1.png]] ![[blowout2.png]] ![[blowout3.png]] ![[blowout4.png]] ![[blowout5.png]]
 - **Bob** [Short] - short hair cut straight around the head
+![[bob2.png]] ![[bob3.png]] ![[bob4.png]] ![[bob5.png]]
 - **Bouffant** [Formal/60s] puffy hair style backcombed or ratted, resulting in a bubble effect
 - **Bowl** [Child] bang area cut straight across the forehead, top layers longer and cut around head like a bowl
 - **Braids** [Plaits] - interwoven strands of hair
