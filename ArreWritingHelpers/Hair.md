@@ -28,8 +28,11 @@
 - **Bob** [Short] - short hair cut straight around the head
 ![[bob2.png]] ![[bob3.png]] ![[bob4.png]] ![[bob5.png]]
 - **Bouffant** [Formal/60s] puffy hair style backcombed or ratted, resulting in a bubble effect
+  ![[bouffant1.png]] ![[bouffant2.png]] ![[bouffant3.png]] ![[bouffant4.png]]
 - **Bowl** [Child] bang area cut straight across the forehead, top layers longer and cut around head like a bowl
+  ![[bowl1.png]] ![[bowl2.png]] ![[bowl3.png]] ![[bowl4.png]] ![[bowl5.png]]
 - **Braids** [Plaits] - interwoven strands of hair
+  ![[braids1.png]] ![[braids2.png]] ![[braids3.png]] ![[braids4.png]]
 - **Bubble** [Casual/60s] short to mid-length, ratted/backcombed to form a football helmet or bubble around the head
 - **Bun** [Updo] - hair gathered and secured into a knot or bun at the back or top of the head
 - **Buzz cut** [Shaved] - very short, shaved hair
