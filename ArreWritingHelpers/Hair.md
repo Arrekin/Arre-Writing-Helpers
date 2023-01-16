@@ -34,8 +34,11 @@
 - **Braids** [Plaits] - interwoven strands of hair
   ![[braids1.png]] ![[braids2.png]] ![[braids3.png]] ![[braids4.png]]
 - **Bubble** [Casual/60s] short to mid-length, ratted/backcombed to form a football helmet or bubble around the head
+  ![[bubble1.png]] ![[bubble2.png]] ![[bubble3.png]] ![[bubble4.png]]
 - **Bun** [Updo] - hair gathered and secured into a knot or bun at the back or top of the head
+  ![[bun1.png]] ![[bun2.png]] ![[bun3.png]] ![[bun4.png]]
 - **Buzz cut** [Shaved] - very short, shaved hair
+  ![[buzzcut1.png]] ![[buzzcut2.png]] ![[buzzcut3.png]] ![[buzzcut4.png]]
 - **Chignon** [Updo] - hair gathered or pinned up, often at the nape of the neck
 - **Conk** [African American] Textured hair straightened using chemicals
 - **Cornrows** [Braids] - tight, braided rows of hair close to the scalp
